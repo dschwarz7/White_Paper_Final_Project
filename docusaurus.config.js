@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://dschwarz7.github.io',
-  baseUrl: '/Tuesday_Assignment/',
+  baseUrl: '/White_Paper_Final_Project/',
   organizationName: 'dschwarz7',
-  projectName: 'Tuesday_Assignment',
+  projectName: 'White_Paper_Final_Project',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
