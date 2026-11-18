@@ -3,7 +3,7 @@
 const config = {
   title: '107T Research Series',
   tagline: 'Papers on issues of interest to Isla Vista residents',
-  favicon: 'img/zombie.svg',
+  favicon: 'img/book.svg',
 
   future: {},
 
@@ -41,7 +41,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      image: 'img/zombie.svg',
+      image: 'img/book.svg',
       colorMode: {
         defaultMode: 'light',
         respectPrefersColorScheme: true,
@@ -50,7 +50,7 @@ const config = {
         title: '107T White Paper Series',
         logo: {
           alt: 'Series mark',
-          src: 'img/palm.svg',
+          src: 'img/book.svg',
         },
         items: [
           {
