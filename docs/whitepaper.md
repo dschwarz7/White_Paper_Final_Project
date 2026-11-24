@@ -110,31 +110,121 @@ At UCSB, the existing Waitz system already provides broad occupancy information;
 All in all, these studies demonstrate how other universities have addressed similar challenges involving study space, operating hours, and access to library information. The research provides a foundation for evaluating improvements at UCSB, particularly in making better use of existing seating, providing more flexible study hours, and improving access to library resources through technology. Solutions Implemented at Other Universities
 
 
-## 5. Survey {#survey}
+## 5. Solutions Implemented at Other Universities {#othersoloutions}
 
-We distributed a survey among 173 college students. What we found was quite disturbing:
+### Library Renovations
 
-<iframe
-  title="I would shoot my fellow students in the leg to buy myself time when being chased by zombies."
-  aria-label="Grouped column chart"
-  src="https://datawrapper.dwcdn.net/1495F/"
-  height="476"
-  style={{ width: '100%', border: 'none' }}
-></iframe>
+One way universities have addressed the challenges of limited study spaces is by renovating their libraries to better accommodate students' needs. For example, Sam Houston State University in Texas renovated the first two floors of its Newton Gresham Library to provide students with more collaborative study areas and access to newer technology. (Wong, 2023).
 
-Many respondents were unwilling to slow down a fellow student, even to save their own lives. This kind of loyalty is admirable in ordinary times, but in an outbreak it could doom everyone. A full description of the survey appears in Appendix A.
+Before the renovations, the library had limited spaces for students to work together and use technology. In 2021, the university completed a $15 million renovation that included 17 new group study rooms and conference rooms with large monitor displays. These spaces were designed to accommodate groups of four to ten students, allowing them to work together on projects and assignments. The university also reorganized existing library materials and offices to create more available space for students.
 
-We need to grow much more comfortable sacrificing our fellow humans if we are to survive.
+Following these improvements, the new group study rooms with monitor displays reported an average occupancy rate of 75%. This shows how the redesigned spaces were being used by students and highlights the demand for collaborative study environments.
 
-## 6. Call to Action {#calltoaction}
+--insert the image here--
 
-We hope that this information inspires immediate action among Isla Vista residents. We can't wait for the zombies to arrive before we act. Mathematical models of an outbreak suggest that only quick, aggressive action can prevent the collapse of society once zombies appear [2]. Every month of delay makes the walls more expensive and the hordes harder to stop. We urge the district's Board of Directors to adopt the four-step plan before the end of the year.
+These findings are relevant to UCSB because they show how universities can make better use of their existing library space without necessarily constructing a new building. By reorganizing study areas and providing more options for collaborative work, UCSB could potentially improve the availability of study spaces while accommodating different student needs.
 
----
+### Centralized Library Applications
 
-### Appendix A. Survey Methodology {#appendix-a}
+In addition to physical renovations and reorganization of space, another solution that could improve convenience for library patrons is a dedicated library app. Many universities have implemented mobile apps that centralize their library services, making it easier and quicker to access them. These apps are often built off of existing foundations such as Ex Libris, a general library management software featuring useful app frameworks.
 
-The survey was conducted using the ZAS (Zombie Apocalypse Survey), a widely-used national scale devised by Kenneth Smith. The ZAS asks respondents to rate their agreement with a series of statements about zombie survival on a five-point scale, from "strongly disagree" to "strongly agree." We recruited 173 undergraduate students on and around the UCSB campus, and all responses were anonymous.
+Rutgers, the University of Texas at Dallas, and the University of Alabama at Birmingham offer examples of library apps that combine access to library accounts, resource information, and services. These examples show how students can find services through a single interface rather than visiting separate webpages. UAB, for example, provides account status, catalog searches, library events, research guides, and contact with librarians through its Library Mobile app.
+
+--insert the image here--
+
+### Additional Digital Services
+
+Another feature that could greatly benefit patrons is the ability to scan codes in order to check out library materials without having to visit the services desk. In addition to existing self-checkout machines, this feature would be especially useful when the services desk is closed, as it closes earlier than the library itself. Harvard University has implemented a standalone app for checking out library materials, and UCSB could integrate similar functionality into its own central app. The application could then provide reminders about upcoming loan due dates. Harvard University checkout app:
+
+--insert the image here--
+
+## 6. Proposed Plan for the UCSB Library {#proposedplan}
+
+With the challenges currently affecting the UCSB Library, our team recommends a set of improvements that focus on better use of existing space and easier access to study resources. The proposal combines careful changes to seating, more detailed occupancy information, an improved app experience, and consideration of operating hours and study conditions.
+
+### Redesigning Quiet and Collaborative Spaces
+
+One potential approach to overcrowding is to reorganize selected areas of the library to create more room for collaborative study, especially during midterms and finals. However, the goal should not be to eliminate most quiet floors. Instead, UCSB should evaluate where a modest redesign could create additional group spaces while preserving quiet areas that many students depend on.
+
+Addressing overcrowding at the UCSB Library requires additional steps than simply increasing the number of seats. It is important to understand which type of study environments the students prefer. Figure 10 shows that students most preferred a quiet environment to study, with 54.3% of participants selecting it. Following this, charging/outlets were preferred by 21.7%, and comfortable seating by 17.4%. The data suggest that maintaining quiet study environments should be an important factor when redesigning the library space. Converting areas of the library into group study spaces could improve group seating overall; taking away too many quiet study areas will conflict with the needs of the majority of students who rely on the quiet study areas.
+
+--insert the image here--
+
+The current layout includes four quiet floors and three floors without the same quiet restrictions. Rather than immediately converting three quiet floors into social floors, the library could first identify underused or inefficient areas and test flexible furniture arrangements, using observed use and student feedback to decide whether any larger change would be appropriate.
+
+Students’ study habits show us the importance of having the option of different types of study spaces available. As shown in Figure 11, 39.1% of participants selected that they study alone, while 19.6% reported studying in groups more often, and 15.2% selected that they usually study in groups. Additionally, 17.4% of participants reported that they equally study alone and in groups. The findings suggest that the UCSB Library needs to include every student's study preference. Instead of removing quiet floors, UCSB can redesign the floor by incorporating designated areas for more collaborative group work while maintaining areas for quiet environments. The solution can improve the availability of group study spaces while not affecting students who prefer studying alone.
+
+### More Precise Occupancy Sensing
+Currently, the UCSB Library employs a real-time occupancy tracking system called Waitz, created by the company Occuspace. The system uses IoT sensors plugged into electrical outlets around the library, which determine crowd levels through Wi-Fi and Bluetooth signals from patron devices. The technology does not gather personal information from devices, and MAC addresses from radio signals are properly hashed, ensuring that privacy is maintained. The occupancy information is then displayed on screens around the library and can also be viewed through a Waitz mobile app.
+
+At the moment, occupancy sensing is split according to floor level, with the first two floors split into Oceanside and Mountainside. Grad study spaces are also tracked separately. Sections of the library for which occupancy is currently measured: (source: Julia Ong / Daily Nexus)
+
+--insert the image here--
+
+This real-time tracking has been incredibly useful for students looking for study spaces. However, we believe that the system can be improved to be made even more specific. Many survey respondents expressed a desire for better ways to find available seating, proposing ideas such as “display[ing] seating numbers,” ways to “find [the] nearest seat from you that is unoccupied,” and a “library map paired with seating availability.”
+
+Therefore, to help students better navigate which locations in the library are less busy, we propose an expansion of the sensing system to make occupancy-tracking more precise. In addition to increasing the number of Waitz radio-frequency sensors, introducing another type of sensor that directly tracks bodies could allow for more precise live occupancy measurements. We have researched two types that would work well without compromising privacy.
+
+--insert the table here, idk how to yet lol--
+
+### Temperature and Ventilation
+
+Survey responses show that many students have concerns about AC and ventilation, and would like to see improvements made. A solution for temperature control is to upgrade the ventilation system and air conditioning as well as provide students with easily-accessible temperature information. This can ensure that students have a comfortable climate for a learning and studying environment, and will be a lasting solution that, if installed properly, can accommodate students for a long time with proper maintenance.
+
+UCSB should coordinate this proposal with its facilities staff to confirm the status of any planned ventilation work before recommending additional upgrades. Once improvements are in place, a follow-up student survey could help assess whether the study environment has become more comfortable.
+
+We then suggest that the temperatures of various library sections be displayed alongside occupancy and noise levels, so that students can choose study spaces with the temperature most ideal for them. UCSB currently uses a building automation system that controls library HVAC functions and measures data, and we propose that granular temperature measurements be made public. Library App
+
+### Extending Library Operating Hours
+
+Because class schedules, work, and other responsibilities vary, UCSB could evaluate targeted extensions of study access during periods of high demand, including midterms and finals. East Carolina University’s experience suggests that new hours can attract students who might otherwise arrive earlier or leave later. However, only 4.3% of the students in our survey selected limited hours as a barrier, so extended hours should remain a secondary priority to improving seat availability.
+
+A smaller pilot could test later access in selected areas before any permanent schedule changes. UCSB would need to evaluate staffing, building access, safety, maintenance, and actual student use before committing to a broader extension.
+
+### Creating a Centralized UCSB Library App
+As mentioned earlier, UCSB already has a Waitz app that tracks how busy various library locations are in real-time through smartphone signals. However, the app provides no other functionality. Based on examples from other university libraries as well as survey feedback, we suggest that UCSB builds upon the Waitz app concept to implement a more holistic mobile app featuring a wide range of library services. Features that the app would include are listed below, ranked according to how useful the survey respondents found them.
+
+A centralized UCSB Library app can help students effectively find available seating and use the library's resources efficiently. To get a better understanding on what features would best help students, survey participants were asked to rate the proposed app features on a five-point scale. As shown in Figure 14, real-time seating availability had the highest rating, with 97.8% of participants rating it a four or five. Following it were library hours at 84.8% and room reservations at 82.8%. The results from the data show that students prioritize planning their time at the library and locating resources. Applying these features to an application, UCSB can improve the process of finding an available seat, study rooms, and resources.
+
+--insert core features table--
+
+### Prototype and Student Interest
+
+Our Figma prototype illustrates a possible user experience for exploring study spaces, checking seat availability, reserving rooms, and finding library services. Selected screens are included in Appendix A. They are design concepts, not a currently operating UCSB application.
+
+--insert prototype images here--
+
+The benefits of a centralized library application are further supported by the students’ willingness to use it. Figure 17 shows that 69.6% of participants selected that they are somewhat likely or very likely to use the application. Specifically, 45.7% selected somewhat likely, while 23.9% selected very likely.
+
+--insert images here--
+
+Though this data does not guarantee that the respondents would use the application, it does allow us to see the interest among the respondents. Together with strong preferences in real-time seating availability and study room reservations, the data results support the development of the application to address challenges at the UCSB Library. Prioritizing features that were highly popular could help UCSB create an application to meet all students' needs and improve their use of the library’s resources.
+
+## 7. Implementation & Cost Analysis {#implementation}
+UCSB should implement the proposed solutions in phases, beginning with an in-depth assessment of existing study spaces and technology. This process should be coordinated by library staff, campus information technology staff, and facilities personnel. Before implementing changes, the team should document seating use, student preferences, and temperature concerns across different library areas, referencing the initial collection of data through surveys. Observations should include both regular weeks and peak seasons such as midterms and finals season. This will ultimately help the team determine when and where additional support is needed.
+
+The first phase should test a revised seating arrangement in a limited area. Rather than immediately converting several quiet floors into collaborative spaces, UCSB should explore an area where rearranging existing furniture could better accommodate group work. This would help preserve a quiet study option while opening up more room for groups to conduct work together. Additionally, with effective communication in mind, clear signs should be posted in each space explaining their expectations. Initial student feedback and occupancy observations would help determine whether the arrangement improves access or creates additional noise problems, helping the team assess before expanding the changes.
+
+The second phase should focus on improving occupancy information and centralizing library services as a whole. UCSB should evaluate whether its existing Waitz system can support more detailed occupancy reporting and seamlessly integrate into a library app. Additional sensors should initially be tested in selected study areas, with their reading checked against observed occupancy. The initial release of the app should prioritize seating information, room reservations, and operating hours. Other features to implement as the app progresses include printing access, loan management, and events. Temperature information could also be incorporated if existing building systems are able to provide suitable data.
+
+### Costs and Feasibility
+
+Implementation costs would include furniture relocation, the purchase and installation of signs and sensors, software configuration and staff time. Recurring costs could include app updates, sensor maintenance, technical support, and licensing. Improvements involving temperature regulation would require additional coordination with facilities personnel, allowing work already planned from additional equipment or maintenance needs to be distinguished. Any noise monitoring features would also require separate evaluation before inclusion in the initial budget.
+
+Since the current proposal does not include vendor costs, a reliable total cost cannot yet be established. UCSB’s first steps should be to request estimates for a limited pilot and broader implementation, separating initial expenses from annual operating costs. Reusing furniture, building on existing systems, and testing an established app framework could help control spending, although compatibility and licensing would need verification.
+
+### Expected Benefits and Evaluation
+
+For students, these improvements could reduce time spent searching for seats, simplify group reservations, and make study conditions easier to access before arriving. For UCSB, the project could improve the use of existing space, and provide evidence for future spending decisions. Pilot results should be evaluated occupancy accuracy, student satisfaction, room-booking experiences, and reported difficulty of finding seats. Ultimately, expansion should depend on the demonstrated benefits and sustainable operating costs.
+
+## 8. Conclusion & Recommendations
+Finding a suitable place to study should be a manageable part of a student’s day, not a stressful one. However, the findings presented in this white paper illustrate that seating shortages amongst other difficulties can interrupt that process. Among the students surveyed in this study, the most frequent reported barrier to library use was unavailable seating. Additionally, over 80% of the students surveyed reported leaving the library because of seating shortages at least some of the time. These numbers clearly illustrate the need to make existing study spaces more accessible and easier to use.
+
+Our proposed solutions address both the physical study environment as well as the tools students use to access information centered around planning their study sessions. Adjusting already existing seating areas could accommodate larger groups while not having to sacrifice quiet space. Additionally, more detailed occupancy tracking could help students identify suitable areas without having to scour multiple floors. A centralized library app could bring services like these as well as operating hours and room reservations all into one convenient location. Furthermore, coordinating temperature regulation throughout the library could bring a more enjoyable experience for the student.
+
+The University should ultimately begin this process through a pilot that combines small seating adjustments mentioned above with an initial app release debuting several of the services. This approach would allow the university to test technical reliability, understand costs, and gather student feedback before launching a full scale project. One of the key factors to look out for would be adjustments to the quiet floors, as per the data, quiet environments were the highest study space priority. Success should be measured through student satisfaction and the effective use of library resources. Through the help of students and a positively engaged staff, the UCSB Library can become the go-to place for studying.
+
+
 
 ### References {#references}
 
