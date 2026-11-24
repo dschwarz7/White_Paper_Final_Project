@@ -65,23 +65,50 @@ The issues presented show how overcrowding, operating hours, uncomfortable tempe
 Survey context: These results represent responses from 46 UCSB students and should be understood as feedback from this sample, rather than a statistically representative estimate of the entire student population.
 
 
-## 4. Cost Analysis {#costs}
+## 4. Similar Problems at Other Universities {#similarproblems}
 
-Table 1 summarizes the cost of each measure, based on our own detailed economic analysis.
+These challenges that we are seeing are not unique to UCSB, as students at other universities have reported similar concerns regarding study-space availability, operating hours, comfortable study spaces, and access to library resources. Research conducted at these institutions demonstrates how such issues can affect students' experience and provides insight into these problems.
 
-| Measure | Items | Cost |
-| :---- | :---- | :---- |
-| Measure 1 | City Walls | $1.75 billion |
-| Measure 2 | Munitions | $50 million |
-| Measure 3 | Research | $25 million |
-| Measure 4 | Food Supplies | $34 million |
-| **Total** | | **$1.859 billion** |
+# Study Space Availability
+At the University of Central Florida (UCF), Allen and Moyer (2021) examined how students used different types of furniture in the university's main library. At the time, the library had approximately 1,903 available seats for 38,600 full-time-equivalent students, providing seating for only 4.9% of that population at once.
 
-<p><strong>Table 1.</strong> Economic analysis.</p>
+To take a deeper look at the student preferences, researchers completed 30 walkthroughs between July and October of 2018, taking note of what seats were occupied. The results showed that tables with dividers had a 59% utilization rate compared to 31% for tables without dividers.
 
-:::warning[How to pay for measures]
-We recognize the cost of these measures is quite large. We therefore suggest a 2.5% wealth tax on Oprah, who lives in nearby Montecito.
-:::
+-- insert the image here--
+
+Researchers also saw that students would prefer to work in an open area even when study rooms were available. This shows that students' seating preferences depend not only on availability but also on the type of study environment.
+
+These findings are relevant to UCSB because they show that the challenge is not simply the number of seats available. The organization and design of what is available can also impact how efficiently students make use of the library. By understanding students' preferences, UCSB can evaluate whether its current seating arrangement and layout meet the needs of its students.
+
+# Limited Library Hours
+Another challenge students face is the limited library operating hours. At East Carolina University, Harmon and Sewell (2024) examined how extending weekend hours affected the usage of the Laupus Health Sciences Library.
+
+In response to students' requests, the university changed its budget to extend weekend operating hours by ten hours per week. These hours were divided by adding three hours on Friday, three hours on Saturday, and four hours on Sunday. Researchers compared library usage during the year before and after the changes, excluding examination periods. Their findings showed that students arrived earlier, stayed later, and overall library usage increased across the study.
+
+During the extended operating hours, 8% of Friday entries, 11% of Saturday entries, and 21% of Sunday entries occurred during the newly added time periods. The total number of library items checked out also increased by 40.18% during non-exam periods.
+
+-- insert the image here--
+
+The same study found that between 15.91% and 17.73% of reserved study-room hours occurred during the newly added hours, depending on the semester. This demonstrates that students were using dedicated study spaces, not only entering the building.
+
+-- insert the image here--
+
+We see through this study how extending library hours could help accommodate students with different schedules and study needs. For UCSB, this research provides support for evaluating whether additional evening and weekend hours could improve access to study spaces.
+
+# Limited Library Hours
+Beyond these improvements, we can also see how some universities have implemented digital applications to make library resources more accessible. At University College London (UCL), Izmir Tunahan and Altamirano (2022) examined library seating patterns using occupancy sensors installed beneath the desks.
+
+UCL introduced technology to monitor approximately 4,000 study spaces across its libraries, collecting occupancy information at 10-minute intervals. This information was incorporated into the UCL Go app, allowing students to view available study spaces in real time rather than searching through the library themselves.
+
+The researchers also examined how student seating preferences changed before and after the COVID-19 pandemic. For example, average library utilization in February 2019 was 58.4%, compared to 38.0% in February 2022. The study also found that before the pandemic, students generally preferred seating with natural lighting, outdoor views, and privacy. After the pandemic, students appeared to place greater importance on having distance between themselves and others.
+
+-- insert the image here--
+These findings demonstrate how occupancy data can help universities understand which spaces students prefer and how those preferences change over time. The technology also provides students with information that can help them plan library visits and locate available seating.
+
+At UCSB, the existing Waitz system already provides broad occupancy information; research from UCL supports evaluating whether additional seat-level information could make that information more useful when combined with study room reservations and operating hours in one application.
+
+All in all, these studies demonstrate how other universities have addressed similar challenges involving study space, operating hours, and access to library information. The research provides a foundation for evaluating improvements at UCSB, particularly in making better use of existing seating, providing more flexible study hours, and improving access to library resources through technology. Solutions Implemented at Other Universities
+
 
 ## 5. Survey {#survey}
 
