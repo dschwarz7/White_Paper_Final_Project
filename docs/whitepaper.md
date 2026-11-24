@@ -16,16 +16,14 @@ description: "A white paper urging local government to prepare Isla Vista for a 
 
 ## 1. Executive Summary {#executive}
 
-Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised
-as science-fiction. He died in 1981, almost twenty years after he made Dwayne Hoover so sick.
-He was by then recognized as a great artist and scientist. The American Academy of Arts and
-Sciences caused a monument to be erected over his ashes. Carved in its face was a quotation
-from his last novel, his two-hundred-and-ninth novel, which was unfinished when he died. The
-monument looked like this:
-To simulate the appearance of the gravestone, you should create an admonition with the following
-features:
-Title: Kilgore Trout, 1907–1981
-Text: We are healthy only to the extent that our ideas are humane.
+The UCSB Library is a central study space for students, but difficulty finding suitable seating can make study sessions more stressful and less productive. In a survey of 46 UCSB students conducted for this project, 89.1% identified unavailable seating as a barrier to library use, and 80.4% reported leaving because they could not find a seat at least some of the time. Students also expressed preferences for quiet spaces and more accessible information about seating, reservations, and operating hours.
+
+This white paper draws on library research from the University of Central Florida, East Carolina University, University College London, and Sam Houston State University. Based on this evidence and student feedback, the project recommends testing more efficient seating layouts while preserving quiet areas, evaluating more detailed occupancy tracking, and creating a centralized UCSB Library app that brings together study room reservations, library information, and seat availability. A phased pilot would allow UCSB to evaluate benefits, costs, privacy, and feasibility before expanding the changes.
+
+| 89.1% | 80.4% | 97.8% |
+| :---- | :---- | :---- |
+| Reported unavailable seating as a barrier| Left the library for lack of seating at least once | Rated real-time seat availability highly |
+
 
 ![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
 
