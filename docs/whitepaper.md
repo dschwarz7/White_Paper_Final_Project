@@ -37,7 +37,7 @@ This white paper examines how overcrowding affects UCSB students’ ability to f
 
 
 ## 3. Current Challenges at the UCSB Library {#challenges}
-# Overcrowding and Limited Study Space 
+### Overcrowding and Limited Study Space 
 
 UCSB faces one significant issue dealing with overcrowding in the UCSB Library during finals and midterm weeks. UCSB has one campus library, and students rely on its resources to prepare for exams. During exam weeks, finding a seat becomes challenging due to the increased usage for studying and getting work completed. Students may end up spending more time trying to find a seat rather than completing the task they went in with. This can be very frustrating for students who have limited time between their responsibilities and classes.
 
@@ -45,7 +45,7 @@ One of the most significant challenges that students face at the UCSB Library is
 
 -- insert the image here--
 
-# Limited Library Hours
+### Limited Library Hours
 
 Another main concern is the UCSB Library hours. Every student's schedule varies with classes, employment, and personal responsibilities. This makes finding study spaces at a convenient time important. Limited hours for the library can make it hard for students to use all of the library resources they have available. Changes in the library hours can make it challenging for students to understand which floors are available, study areas, and services offered. This can affect students during exam periods when they might need a particular time to study or use services offered by the library.
 
@@ -53,11 +53,11 @@ Unavailable seating has become more apparent when analyzing how frequently stude
 
 -- insert the image here--
 
-# Temperature and Ventilation
+### Temperature and Ventilation
 
 The library's physical environment also presents challenges. Temperature control on certain floors fluctuates due to weather conditions in warmer months. These temperatures can make it hard for students to focus and study for longer periods of time. The library’s poor, inconsistent temperatures, paired with subpar ventilation, affect students' ability to study, especially on a crowded floor with others. Students who depend on the library to study may have few alternatives when faced with these issues. These problems make it difficult for students to study and remain productive in longer study sessions.
 
-# Study Room Reservations
+### Study Room Reservations
 Reserving study rooms can be challenging for students who study in groups or collaborate on projects. During busy time periods, these group study locations can be difficult to find available. Students might have trouble finding an available location to study in a group, with conflicting schedules reducing group productivity. Limited study room availability can make it difficult for students to secure private spaces for presentations, discussions, and group projects.
 
 The issues presented show how overcrowding, operating hours, uncomfortable temperatures, and difficulties with reserving study rooms can negatively affect students at the UCSB Library. These problems are important to address during the academic period and rely on resources being available and students being comfortable. Understanding these problems is important to determine how effectively the UCSB Library meets students' needs.
@@ -69,7 +69,7 @@ Survey context: These results represent responses from 46 UCSB students and shou
 
 These challenges that we are seeing are not unique to UCSB, as students at other universities have reported similar concerns regarding study-space availability, operating hours, comfortable study spaces, and access to library resources. Research conducted at these institutions demonstrates how such issues can affect students' experience and provides insight into these problems.
 
-# Study Space Availability
+### Study Space Availability
 At the University of Central Florida (UCF), Allen and Moyer (2021) examined how students used different types of furniture in the university's main library. At the time, the library had approximately 1,903 available seats for 38,600 full-time-equivalent students, providing seating for only 4.9% of that population at once.
 
 To take a deeper look at the student preferences, researchers completed 30 walkthroughs between July and October of 2018, taking note of what seats were occupied. The results showed that tables with dividers had a 59% utilization rate compared to 31% for tables without dividers.
@@ -80,7 +80,7 @@ Researchers also saw that students would prefer to work in an open area even whe
 
 These findings are relevant to UCSB because they show that the challenge is not simply the number of seats available. The organization and design of what is available can also impact how efficiently students make use of the library. By understanding students' preferences, UCSB can evaluate whether its current seating arrangement and layout meet the needs of its students.
 
-# Limited Library Hours
+### Limited Library Hours
 Another challenge students face is the limited library operating hours. At East Carolina University, Harmon and Sewell (2024) examined how extending weekend hours affected the usage of the Laupus Health Sciences Library.
 
 In response to students' requests, the university changed its budget to extend weekend operating hours by ten hours per week. These hours were divided by adding three hours on Friday, three hours on Saturday, and four hours on Sunday. Researchers compared library usage during the year before and after the changes, excluding examination periods. Their findings showed that students arrived earlier, stayed later, and overall library usage increased across the study.
@@ -95,7 +95,7 @@ The same study found that between 15.91% and 17.73% of reserved study-room hours
 
 We see through this study how extending library hours could help accommodate students with different schedules and study needs. For UCSB, this research provides support for evaluating whether additional evening and weekend hours could improve access to study spaces.
 
-# Limited Library Hours
+### Limited Library Hours
 Beyond these improvements, we can also see how some universities have implemented digital applications to make library resources more accessible. At University College London (UCL), Izmir Tunahan and Altamirano (2022) examined library seating patterns using occupancy sensors installed beneath the desks.
 
 UCL introduced technology to monitor approximately 4,000 study spaces across its libraries, collecting occupancy information at 10-minute intervals. This information was incorporated into the UCL Go app, allowing students to view available study spaces in real time rather than searching through the library themselves.
