@@ -29,8 +29,8 @@ const sidebars = {
     {type: 'link', label: '1. Executive Summary', href: `${PAPER}#executive`},
     {
       type: 'link',
-      label: '2. Two Quotes',
-      href: `${PAPER}#twoquotes`,
+      label: '2. Contents',
+      href: `${PAPER}#contents`,
     },
     {type: 'link', label: '3. A Four-Step Plan', href: `${PAPER}#foursteps`},
     {type: 'link', label: '4. Cost Analysis', href: `${PAPER}#costs`},
