@@ -27,7 +27,7 @@ This white paper draws on library research from the University of Central Florid
 
 ![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
 
-## 2. Contents {#Contents}
+## 2. Contents {#contents}
 
 Two esteemed biologists have made the following observations about the existence of zombies:
 
