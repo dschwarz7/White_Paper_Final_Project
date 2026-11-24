@@ -32,7 +32,7 @@ const sidebars = {
       label: '2. Introduction & Context',
       href: `${PAPER}#introduction`,
     },
-    {type: 'link', label: '3. A Four-Step Plan', href: `${PAPER}#foursteps`},
+    {type: 'link', label: '3. Current Challenges at the UCSB Library', href: `${PAPER}#challenges`},
     {type: 'link', label: '4. Cost Analysis', href: `${PAPER}#costs`},
     {type: 'link', label: '5. Survey', href: `${PAPER}#survey`},
     {type: 'link', label: '6. Call to Action', href: `${PAPER}#calltoaction`},
