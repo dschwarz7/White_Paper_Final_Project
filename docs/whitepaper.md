@@ -29,17 +29,14 @@ This white paper draws on library research from the University of Central Florid
 
 ## 2. Introduction & Context {#introduction}
 
-Two esteemed biologists have made the following observations about the existence of zombies:
+Navigating college can easily be an overwhelming experience. Students have to navigate different clubs, events, social gatherings, and, on top of all this, actual schoolwork. One of the most stressful times in college revolves around midterm and finals season. A student who stops at the library between classes to either complete some work or study for a test may spend some of that study time searching for a seat. The last thing a student wants is to spend fifteen or more minutes looking for a spot and not even finding one, having to pivot and study somewhere else. Or, groups that may have finally found a time where everyone can meet may arrive and find that all study rooms have already been booked. Overcrowding is certainly not a new issue, but still a prominent one.
 
-> "We know that they are here and live among us. That has been conclusively proven. The only question is when they are coming for us." — E. O. Wilson
+Overcrowding at the UCSB Library brings two related questions to mind: how much study space is actually available, and does that space meet the needs of students? A student prepping for an exam may just need a quiet desk, while a group of classmates working together through a problem set may need a space where they can converse with each other. An open seat on a quiet floor may help the first student but won’t do much for the group. Library hours, room reservations, and uncomfortable temperatures can further narrow students’ options by affecting when they can use the space and how long they can comfortably stay there.
 
-and
+This white paper examines how overcrowding affects UCSB students’ ability to find suitable study space at the UCSB Library. It considers whether adjusting the balance of quiet and collaborative spaces could better serve students during busy periods. It also explores how a centralized library app could help students reserve a study room more easily, check seating availability, and confirm operating hours before making a trip to the library. Alongside these proposals, the paper looks into possible temperature control methods and explores how other universities and programs have combatted this issue. The ultimate goal is to identify practical ways for UCSB to make its existing study spaces easier to find and use when students need them most. Problems with the UCSB Library
 
-> "The only people who don't believe in zombies are those ignorant of the science." — Richard Dawkins
 
-While many theories exist about the exact mechanism behind zombie infections, the most prominent one was made famous in the video game and television series *The Last of Us*. Essentially, a mutated strain of Ophiocordyceps — a real-world "zombie ant" fungus [1] — evolved to survive human body temperature and infect the brain, turning its living host into a hyper-aggressive puppet whose sole drive is to spread the fungus to others through chewing into their flesh.[^fungus]
-
-## 3. A Four-Step Plan {#foursteps}
+## 3. Current Challenges at the UCSB Library {#challenges}
 
 We want to suggest a four-step plan for the Isla Vista Community Services District:
 
