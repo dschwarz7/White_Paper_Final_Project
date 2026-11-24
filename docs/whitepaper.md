@@ -225,7 +225,6 @@ Our proposed solutions address both the physical study environment as well as th
 The University should ultimately begin this process through a pilot that combines small seating adjustments mentioned above with an initial app release debuting several of the services. This approach would allow the university to test technical reliability, understand costs, and gather student feedback before launching a full scale project. One of the key factors to look out for would be adjustments to the quiet floors, as per the data, quiet environments were the highest study space priority. Success should be measured through student satisfaction and the effective use of library resources. Through the help of students and a positively engaged staff, the UCSB Library can become the go-to place for studying.
 
 
-
 ### References {#references}
 
 <div>
