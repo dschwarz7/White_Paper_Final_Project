@@ -36,17 +36,11 @@ Overcrowding at the UCSB Library brings two related questions to mind: how much 
 This white paper examines how overcrowding affects UCSB students’ ability to find suitable study space at the UCSB Library. It considers whether adjusting the balance of quiet and collaborative spaces could better serve students during busy periods. It also explores how a centralized library app could help students reserve a study room more easily, check seating availability, and confirm operating hours before making a trip to the library. Alongside these proposals, the paper looks into possible temperature control methods and explores how other universities and programs have combatted this issue. The ultimate goal is to identify practical ways for UCSB to make its existing study spaces easier to find and use when students need them most. Problems with the UCSB Library
 We distributed a survey among 173 college students. What we found was quite disturbing:
 
-<iframe
-  title="Barriers to Library Use"
-  aria-label="Bar chart"
-  src="https://datawrapper.dwcdn.net/qBB1F/1/"
-  height="300"
-  width="100%"
-  style="border: none;"
-  loading="lazy">
-</iframe>
 
-Our survey of 46 UCSB students found that unavailable seating was the most commonly reported barrier to using the library, with 89.1% of respondents selecting it. Other barriers included distance (54.3%), noise (39.1%), ventilation and air conditioning (23.9%), and limited library hours (4.3%). These findings show how seating availability remains one of the main challenges students face when trying to study at the UCSB Library.
+<iframe title="Barriers to Library Use" aria-label="Bar chart" src="https://datawrapper.dwcdn.net/qBB1F/1/" height="350" style="width: 100%; border: none;"></iframe>
+
+Our survey of 46 UCSB students found that unavailable seating was the most common barrier to using the library, with 89.1% of respondents selecting it. Other barriers included distance (54.3%), noise (39.1%), ventilation and air conditioning (23.9%), and limited library hours (4.3%). These findings show how limited seating availability can affect students' ability to find a suitable place to study at the UCSB Library.
+
 
 
 
