@@ -37,15 +37,33 @@ This white paper examines how overcrowding affects UCSB students’ ability to f
 
 
 ## 3. Current Challenges at the UCSB Library {#challenges}
+# Overcrowding and Limited Study Space 
 
-We want to suggest a four-step plan for the Isla Vista Community Services District:
+UCSB faces one significant issue dealing with overcrowding in the UCSB Library during finals and midterm weeks. UCSB has one campus library, and students rely on its resources to prepare for exams. During exam weeks, finding a seat becomes challenging due to the increased usage for studying and getting work completed. Students may end up spending more time trying to find a seat rather than completing the task they went in with. This can be very frustrating for students who have limited time between their responsibilities and classes.
 
-1. **Build City Walls** - Construct a 12-foot-thick city wall around Isla Vista's perimeter, which will create a defensible space to hold back the zombies.
-2. **Buy Small Munitions** - Purchase small munitions to properly arm our residents.
-3. **Biological Research** - Increase funding for biological research at UCSB to cure zombie infections.
-4. **Store Food Supplies** - Buy non-perishable food supplies in case residents are stranded for several months.
+One of the most significant challenges that students face at the UCSB Library is the lack of available spaces to study during academic periods. To understand the difficulties, we conducted a survey with 46 students attending UCSB and asked them to share their experiences with using the library. As shown in Figure 1, 89.1% of participants chose that unavailable seating was the highest barrier to using the Library, making it the highest reported issue. Other barriers include distance 54.3%, noise 39.1%, ventilation/air conditioning 23.9% and limited hours 4.3%. The results suggest that seating availability is the most prominent issue among participants, which can limit their ability to find a suitable area to complete their tasks at the library.
 
-These measures should increase our ability to withstand the incoming hordes.
+-- insert the image here--
+
+# Limited Library Hours
+
+Another main concern is the UCSB Library hours. Every student's schedule varies with classes, employment, and personal responsibilities. This makes finding study spaces at a convenient time important. Limited hours for the library can make it hard for students to use all of the library resources they have available. Changes in the library hours can make it challenging for students to understand which floors are available, study areas, and services offered. This can affect students during exam periods when they might need a particular time to study or use services offered by the library.
+
+Unavailable seating has become more apparent when analyzing how frequently students leave the library due to not finding an available place to study. Figure 2 shows that 80.4% of participants reported leaving the library due to a lack of available seating. Additionally, 43.5% chose sometimes, 30.4% chose often, and 6.5% chose very often. The data shows that the shortage of seating is not just a small inconvenience but rather a problem for students using the library. Students who cannot locate open seating can be forced to relocate, reducing the time they have for their tasks. Figures 1 and 2 provide important insight into addressing seating availability and improving how students can locate open seating in the library.
+
+-- insert the image here--
+
+# Temperature and Ventilation
+
+The library's physical environment also presents challenges. Temperature control on certain floors fluctuates due to weather conditions in warmer months. These temperatures can make it hard for students to focus and study for longer periods of time. The library’s poor, inconsistent temperatures, paired with subpar ventilation, affect students' ability to study, especially on a crowded floor with others. Students who depend on the library to study may have few alternatives when faced with these issues. These problems make it difficult for students to study and remain productive in longer study sessions.
+
+# Study Room Reservations
+Reserving study rooms can be challenging for students who study in groups or collaborate on projects. During busy time periods, these group study locations can be difficult to find available. Students might have trouble finding an available location to study in a group, with conflicting schedules reducing group productivity. Limited study room availability can make it difficult for students to secure private spaces for presentations, discussions, and group projects.
+
+The issues presented show how overcrowding, operating hours, uncomfortable temperatures, and difficulties with reserving study rooms can negatively affect students at the UCSB Library. These problems are important to address during the academic period and rely on resources being available and students being comfortable. Understanding these problems is important to determine how effectively the UCSB Library meets students' needs.
+
+Survey context: These results represent responses from 46 UCSB students and should be understood as feedback from this sample, rather than a statistically representative estimate of the entire student population.
+
 
 ## 4. Cost Analysis {#costs}
 
