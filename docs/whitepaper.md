@@ -112,11 +112,27 @@ In response to students' requests, the university changed its budget to extend w
 
 During the extended operating hours, 8% of Friday entries, 11% of Saturday entries, and 21% of Sunday entries occurred during the newly added time periods. The total number of library items checked out also increased by 40.18% during non-exam periods.
 
--- insert the image here--
+<iframe
+  title="Students Used the Added Weekend Hours"
+  aria-label="Column chart"
+  src="https://datawrapper.dwcdn.net/m6JMm/1/"
+  height="500"
+  scrolling="no"
+  style={{ width: '100%', border: 'none' }}
+  loading="lazy"
+></iframe>
 
 The same study found that between 15.91% and 17.73% of reserved study-room hours occurred during the newly added hours, depending on the semester. This demonstrates that students were using dedicated study spaces, not only entering the building.
 
--- insert the image here--
+<iframe
+  title="Study Rooms Were Booked During Added Hours"
+  aria-label="Bar chart"
+  src="https://datawrapper.dwcdn.net/sVgXf/1/"
+  height="450"
+  scrolling="no"
+  style={{ width: '100%', border: 'none' }}
+  loading="lazy"
+></iframe>
 
 We see through this study how extending library hours could help accommodate students with different schedules and study needs. For UCSB, this research provides support for evaluating whether additional evening and weekend hours could improve access to study spaces.
 
@@ -127,7 +143,16 @@ UCL introduced technology to monitor approximately 4,000 study spaces across its
 
 The researchers also examined how student seating preferences changed before and after the COVID-19 pandemic. For example, average library utilization in February 2019 was 58.4%, compared to 38.0% in February 2022. The study also found that before the pandemic, students generally preferred seating with natural lighting, outdoor views, and privacy. After the pandemic, students appeared to place greater importance on having distance between themselves and others.
 
--- insert the image here--
+<iframe
+  title="Sensors Reveal Room-by-Room Usage Patterns"
+  aria-label="Grouped column chart"
+  src="https://datawrapper.dwcdn.net/SIGgd/1/"
+  height="500"
+  scrolling="no"
+  style={{ width: '100%', border: 'none' }}
+  loading="lazy"
+></iframe>
+
 These findings demonstrate how occupancy data can help universities understand which spaces students prefer and how those preferences change over time. The technology also provides students with information that can help them plan library visits and locate available seating.
 
 At UCSB, the existing Waitz system already provides broad occupancy information; research from UCL supports evaluating whether additional seat-level information could make that information more useful when combined with study room reservations and operating hours in one application.
