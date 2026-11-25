@@ -100,7 +100,7 @@ To take a deeper look at the student preferences, researchers completed 30 walkt
   title="Seat Design Changes How Space Is Used"
   aria-label="Bar chart"
   src="https://datawrapper.dwcdn.net/gMEdH/1/"
-  height="550"
+  height="350"
   scrolling="no"
   style={{ width: '100%', border: 'none' }}
   loading="lazy"
