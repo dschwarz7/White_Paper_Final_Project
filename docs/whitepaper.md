@@ -69,9 +69,9 @@ Our survey of 46 UCSB students found that 80.4% of respondents reported leaving 
 
 ### Limited Library Hours
 
-Another main concern is the UCSB Library hours. Every student's schedule varies with classes, employment, and personal responsibilities. This makes finding study spaces at a convenient time important. Limited hours for the library can make it hard for students to use all of the library resources they have available. Changes in the library hours can make it challenging for students to understand which floors are available, study areas, and services offered. This can affect students during exam periods when they might need a particular time to study or use services offered by the library.
+Another main concern is the UCSB Library hours. Every student's schedule varies with classes, employment, and personal responsibilities. This makes finding study spaces at a convenient time important. Limited hours for the library can make it hard for students to use all of the library resources they have available. Changes in the library hours can make it challenging for students to understand which floors are available,  areas, and services offered. This can affect students during exam periods when they might need a particular time to  or use services offered by the library.
 
-Unavailable seating has become more apparent when analyzing how frequently students leave the library due to not finding an available place to study. Figure 2 shows that 80.4% of participants reported leaving the library due to a lack of available seating. Additionally, 43.5% chose sometimes, 30.4% chose often, and 6.5% chose very often. The data shows that the shortage of seating is not just a small inconvenience but rather a problem for students using the library. Students who cannot locate open seating can be forced to relocate, reducing the time they have for their tasks. Figures 1 and 2 provide important insight into addressing seating availability and improving how students can locate open seating in the library.
+Unavailable seating has become more apparent when analyzing how frequently students leave the library due to not finding an available place to . Figure 2 shows that 80.4% of participants reported leaving the library due to a lack of available seating. Additionally, 43.5% chose sometimes, 30.4% chose often, and 6.5% chose very often. The data shows that the shortage of seating is not just a small inconvenience but rather a problem for students using the library. Students who cannot locate open seating can be forced to relocate, reducing the time they have for their tasks. Figures 1 and 2 provide important insight into addressing seating availability and improving how students can locate open seating in the library.
 
 -- insert the image here--
 
@@ -96,7 +96,17 @@ At the University of Central Florida (UCF), Allen and Moyer (2021) examined how 
 
 To take a deeper look at the student preferences, researchers completed 30 walkthroughs between July and October of 2018, taking note of what seats were occupied. The results showed that tables with dividers had a 59% utilization rate compared to 31% for tables without dividers.
 
--- insert the image here--
+<iframe
+  title="Seat Design Changes How Space Is Used"
+  aria-label="Bar chart"
+  src="https://datawrapper.dwcdn.net/gMEdH/1/"
+  height="550"
+  scrolling="no"
+  style={{ width: '100%', border: 'none' }}
+  loading="lazy"
+></iframe>
+
+Research conducted at the University of Central Florida by Allen and Moyer (2021) found that students used certain seating arrangements more frequently than others. Small tables at standard height had a 67% utilization rate, compared to 33% for bar-height tables. Similarly, tables with dividers had a 59% utilization rate, compared to 31% for tables without dividers. These findings suggest that furniture design and seating arrangements can influence how students use library spaces, providing useful insight for potential improvements at the UCSB Library.
 
 Researchers also saw that students would prefer to work in an open area even when study rooms were available. This shows that students' seating preferences depend not only on availability but also on the type of study environment.
 
