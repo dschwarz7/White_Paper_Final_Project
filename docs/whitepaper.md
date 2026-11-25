@@ -58,9 +58,9 @@ One of the most significant challenges that students face at the UCSB Library is
   title="Students Leaving Due to Seating"
   aria-label="Column chart"
   src="https://datawrapper.dwcdn.net/eMJbD/1/"
-  height="1000"
+  height="850"
   scrolling="no"
-  style={{ width: '80%', border: 'none', display: 'block' }}
+  style={{ width: '60%', border: 'none', display: 'block' }}
   loading="lazy"
 ></iframe>
 
