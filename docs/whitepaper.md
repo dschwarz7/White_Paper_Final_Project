@@ -37,9 +37,17 @@ This white paper examines how overcrowding affects UCSB students’ ability to f
 We distributed a survey among 173 college students. What we found was quite disturbing:
 
 
-<iframe title="Barriers to Library Use" aria-label="Bar chart" src="https://datawrapper.dwcdn.net/qBB1F/1/" height="350" style="width: 100%; border: none;"></iframe>
 
-Our survey of 46 UCSB students found that unavailable seating was the most common barrier to using the library, with 89.1% of respondents selecting it. Other barriers included distance (54.3%), noise (39.1%), ventilation and air conditioning (23.9%), and limited library hours (4.3%). These findings show how limited seating availability can affect students' ability to find a suitable place to study at the UCSB Library.
+<iframe
+  title="Barriers to Library Use"
+  aria-label="Bar chart"
+  src="https://datawrapper.dwcdn.net/qBB1F/1/"
+  height="350"
+  style={{ width: '100%', border: 'none' }}
+  loading="lazy"
+></iframe>
+
+Our survey of 46 UCSB students found that unavailable seating was the most common barrier to using the library, with 89.1% of respondents selecting it. Other barriers included distance (54.3%), noise (39.1%), ventilation and air conditioning (23.9%), and limited library hours (4.3%). These findings show how seating availability remains one of the main challenges students face at the UCSB Library.
 
 
 
