@@ -42,7 +42,7 @@ We distributed a survey among 173 college students. What we found was quite dist
   title="Barriers to Library Use"
   aria-label="Bar chart"
   src="https://datawrapper.dwcdn.net/qBB1F/1/"
-  height="350"
+  height="250"
   style={{ width: '100%', border: 'none' }}
   loading="lazy"
 ></iframe>
