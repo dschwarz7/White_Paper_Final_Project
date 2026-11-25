@@ -49,9 +49,6 @@ We distributed a survey among 173 college students. What we found was quite dist
 
 Our survey of 46 UCSB students found that unavailable seating was the most common barrier to using the library, with 89.1% of respondents selecting it. Other barriers included distance (54.3%), noise (39.1%), ventilation and air conditioning (23.9%), and limited library hours (4.3%). These findings show how seating availability remains one of the main challenges students face at the UCSB Library.
 
-
-
-
 ## 3. Current Challenges at the UCSB Library {#challenges}
 ### Overcrowding and Limited Study Space 
 
@@ -59,7 +56,18 @@ UCSB faces one significant issue dealing with overcrowding in the UCSB Library d
 
 One of the most significant challenges that students face at the UCSB Library is the lack of available spaces to study during academic periods. To understand the difficulties, we conducted a survey with 46 students attending UCSB and asked them to share their experiences with using the library. As shown in Figure 1, 89.1% of participants chose that unavailable seating was the highest barrier to using the Library, making it the highest reported issue. Other barriers include distance 54.3%, noise 39.1%, ventilation/air conditioning 23.9% and limited hours 4.3%. The results suggest that seating availability is the most prominent issue among participants, which can limit their ability to find a suitable area to complete their tasks at the library.
 
--- insert the image here--
+
+<iframe
+  title="Students Leaving Due to Seating"
+  aria-label="Column chart"
+  src="https://datawrapper.dwcdn.net/eMJbD/1/"
+  height="350"
+  style={{ width: '100%', border: 'none' }}
+  loading="lazy"
+></iframe>
+
+Our survey of 46 UCSB students found that 80.4% of respondents reported leaving the library at least sometimes because they could not find an available seat. Specifically, 43.5% reported leaving sometimes, 30.4% often, and 6.5% very often. Meanwhile, 15.2% rarely left due to unavailable seating, and only 4.3% reported never leaving for this reason. These findings show how seating shortages can disrupt students' study sessions and limit their ability to use the library effectively.
+
 
 ### Limited Library Hours
 
