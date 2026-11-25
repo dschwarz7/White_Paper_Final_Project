@@ -56,7 +56,7 @@ Unavailable seating has become more apparent when analyzing how frequently stude
   src="https://datawrapper.dwcdn.net/eMJbD/1/"
   height="600"
   scrolling="no"
-  style={{ width: '90%', border: 'none', display: 'block' }}
+  style={{ width: '75%', border: 'none', display: 'block' }}
   loading="lazy"
 ></iframe>
 
