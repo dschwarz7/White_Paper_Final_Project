@@ -24,9 +24,6 @@ This white paper draws on library research from the University of Central Florid
 | :---- | :---- | :---- |
 | Reported unavailable seating as a barrier| Left the library for lack of seating at least once | Rated real-time seat availability highly |
 
-
-![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
-
 ## 2. Introduction & Context {#introduction}
 
 Navigating college can easily be an overwhelming experience. Students have to navigate different clubs, events, social gatherings, and, on top of all this, actual schoolwork. One of the most stressful times in college revolves around midterm and finals season. A student who stops at the library between classes to either complete some work or study for a test may spend some of that study time searching for a seat. The last thing a student wants is to spend fifteen or more minutes looking for a spot and not even finding one, having to pivot and study somewhere else. Or, groups that may have finally found a time where everyone can meet may arrive and find that all study rooms have already been booked. Overcrowding is certainly not a new issue, but still a prominent one.
@@ -34,7 +31,13 @@ Navigating college can easily be an overwhelming experience. Students have to na
 Overcrowding at the UCSB Library brings two related questions to mind: how much study space is actually available, and does that space meet the needs of students? A student prepping for an exam may just need a quiet desk, while a group of classmates working together through a problem set may need a space where they can converse with each other. An open seat on a quiet floor may help the first student but won’t do much for the group. Library hours, room reservations, and uncomfortable temperatures can further narrow students’ options by affecting when they can use the space and how long they can comfortably stay there.
 
 This white paper examines how overcrowding affects UCSB students’ ability to find suitable study space at the UCSB Library. It considers whether adjusting the balance of quiet and collaborative spaces could better serve students during busy periods. It also explores how a centralized library app could help students reserve a study room more easily, check seating availability, and confirm operating hours before making a trip to the library. Alongside these proposals, the paper looks into possible temperature control methods and explores how other universities and programs have combatted this issue. The ultimate goal is to identify practical ways for UCSB to make its existing study spaces easier to find and use when students need them most. Problems with the UCSB Library
-We distributed a survey among 173 college students. What we found was quite disturbing:
+
+## 3. Current Challenges at the UCSB Library {#challenges}
+### Overcrowding and Limited Study Space 
+
+UCSB faces one significant issue dealing with overcrowding in the UCSB Library during finals and midterm weeks. UCSB has one campus library, and students rely on its resources to prepare for exams. During exam weeks, finding a seat becomes challenging due to the increased usage for studying and getting work completed. Students may end up spending more time trying to find a seat rather than completing the task they went in with. This can be very frustrating for students who have limited time between their responsibilities and classes.
+
+One of the most significant challenges that students face at the UCSB Library is the lack of available spaces to study during academic periods. To understand the difficulties, we conducted a survey with 46 students attending UCSB and asked them to share their experiences with using the library. As shown in Figure 1, 89.1% of participants chose that unavailable seating was the highest barrier to using the Library, making it the highest reported issue. Other barriers include distance 54.3%, noise 39.1%, ventilation/air conditioning 23.9% and limited hours 4.3%. The results suggest that seating availability is the most prominent issue among participants, which can limit their ability to find a suitable area to complete their tasks at the library.
 
 <iframe
   title="Barriers to Library Use"
@@ -45,14 +48,7 @@ We distributed a survey among 173 college students. What we found was quite dist
   loading="lazy"
 ></iframe>
 
-Our survey of 46 UCSB students found that unavailable seating was the most common barrier to using the library, with 89.1% of respondents selecting it. Other barriers included distance (54.3%), noise (39.1%), ventilation and air conditioning (23.9%), and limited library hours (4.3%). These findings show how seating availability remains one of the main challenges students face at the UCSB Library.
-
-## 3. Current Challenges at the UCSB Library {#challenges}
-### Overcrowding and Limited Study Space 
-
-UCSB faces one significant issue dealing with overcrowding in the UCSB Library during finals and midterm weeks. UCSB has one campus library, and students rely on its resources to prepare for exams. During exam weeks, finding a seat becomes challenging due to the increased usage for studying and getting work completed. Students may end up spending more time trying to find a seat rather than completing the task they went in with. This can be very frustrating for students who have limited time between their responsibilities and classes.
-
-One of the most significant challenges that students face at the UCSB Library is the lack of available spaces to study during academic periods. To understand the difficulties, we conducted a survey with 46 students attending UCSB and asked them to share their experiences with using the library. As shown in Figure 1, 89.1% of participants chose that unavailable seating was the highest barrier to using the Library, making it the highest reported issue. Other barriers include distance 54.3%, noise 39.1%, ventilation/air conditioning 23.9% and limited hours 4.3%. The results suggest that seating availability is the most prominent issue among participants, which can limit their ability to find a suitable area to complete their tasks at the library.
+Unavailable seating has become more apparent when analyzing how frequently students leave the library due to not finding an available place to study. Figure 2 shows that 80.4% of participants reported leaving the library due to a lack of available seating. Additionally, 43.5% chose sometimes, 30.4% chose often, and 6.5% chose very often. The data shows that the shortage of seating is not just a small inconvenience but rather a problem for students using the library. Students who cannot locate open seating can be forced to relocate, reducing the time they have for their tasks. Figures 1 and 2 provide important insight into addressing seating availability and improving how students can locate open seating in the library.
 
 <iframe
   title="Students Leaving Due to Seating"
@@ -63,9 +59,6 @@ One of the most significant challenges that students face at the UCSB Library is
   style={{ width: '90%', border: 'none', display: 'block' }}
   loading="lazy"
 ></iframe>
-
-Our survey of 46 UCSB students found that 80.4% of respondents reported leaving the library at least sometimes because they could not find an available seat. Specifically, 43.5% reported leaving sometimes, 30.4% often, and 6.5% very often. Meanwhile, 15.2% rarely left due to unavailable seating, and only 4.3% reported never leaving for this reason. These findings show how seating shortages can disrupt students' study sessions and limit their ability to use the library effectively.
-
 
 ### Limited Library Hours
 
