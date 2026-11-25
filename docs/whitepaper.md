@@ -60,7 +60,7 @@ One of the most significant challenges that students face at the UCSB Library is
   src="https://datawrapper.dwcdn.net/eMJbD/1/"
   height="1000"
   scrolling="no"
-  style={{ width: '100%', border: 'none', display: 'block' }}
+  style={{ width: '80%', border: 'none', display: 'block' }}
   loading="lazy"
 ></iframe>
 
